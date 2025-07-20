@@ -134,7 +134,7 @@ npm start
 
 ## 🖼 Demo
 
-> 📸 [Link to Demo Video](https://drive.google.com/file/d/1iXTpXvCYmCfNxp_BeDDFqVF3GosNmMtB/view?usp=sharing)
+> 📸demo video:(https://drive.google.com/file/d/1iXTpXvCYmCfNxp_BeDDFqVF3GosNmMtB/view?usp=sharing)
 
 ---
 
